@@ -1,0 +1,14 @@
+{
+  "scripts": {
+    "build": "npx postcss css/app.css -o public/compiled.css",
+    "watch": "npm run build && chokidar 'css/**/*.css' 'public/index.html' --command 'npm run build'"
+  },
+  "devDependencies": {
+    "autoprefixer": "^10.4.13",
+    "chokidar": "^3.5.3",
+    "chokidar-cli": "^3.0.0",
+    "postcss": "^8.4.20",
+    "postcss-cli": "^10.1.0",
+    "tailwindcss": "^3.2.4"
+  }
+}
