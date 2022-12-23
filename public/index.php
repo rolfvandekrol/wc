@@ -17,11 +17,10 @@
       <div class="container mx-auto px-4 py-8 lg:pt-16 grow">
         <div class="lg:flex lg:flex-row lg:items-stretch lg:-mx-2">
           <div class="lg:basis-1/2 mb-4">
-            <div class="rounded-lg bg-orange-500 shadow-lg flex flex-col text-center px-5 py-10 md:mx-2 min-h-full">
-              <h1 class="font-bold text-xl text-orange-200 mb-8">Werkt de WC bij SWIS?</h1>
+            <div class="rounded-lg bg-green-500 shadow-lg flex flex-col text-center px-5 py-10 md:mx-2 min-h-full">
+              <h1 class="font-bold text-xl text-green-200 mb-8">Werkt de WC bij SWIS?</h1>
               <div class="grow flex flex-col justify-center items-center">
-                <p class="text-white font-bold text-6xl mb-2">Nee</p>
-                <p class="text-white font-bold text-lg">Van 1 van de WC's werkt de kraan nog niet.</p>
+                <p class="text-white font-bold text-6xl mb-2">Ja</p>
               </div>
             </div>
           </div>

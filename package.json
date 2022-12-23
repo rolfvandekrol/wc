@@ -1,7 +1,7 @@
 {
   "scripts": {
     "build": "npx postcss css/app.css -o public/compiled.css",
-    "watch": "npm run build && chokidar 'css/**/*.css' 'public/index.html' --command 'npm run build'"
+    "watch": "npm run build && chokidar 'css/**/*.css' 'public/index.php' --command 'npm run build'"
   },
   "devDependencies": {
     "autoprefixer": "^10.4.13",
