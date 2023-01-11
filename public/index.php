@@ -28,7 +28,7 @@
             <div class="rounded-lg bg-blue-700 shadow-lg flex flex-col text-center px-5 py-10 md:mx-2 min-h-full">
               <h1 class="font-bold text-xl text-blue-200 mb-8">Op dit moment</h1>
               <div class="grow flex flex-col justify-center items-center">
-                <p class="text-white font-bold text-lg"><span class="block text-6xl mb-2"><?php print floor(floatval(time() - 1671778800) / (24.0 * 60.0 * 60.0)); ?></span> achtereenvolgende dagen met 2 werkende WC's.</>
+                <p class="text-white font-bold text-lg"><span class="block text-6xl mb-2"><?php print floor(floatval(time() - 1673423512) / (24.0 * 60.0 * 60.0)); ?></span> achtereenvolgende dagen met 2 werkende WC's.</p>
               </div>
             </div>
           </div>
